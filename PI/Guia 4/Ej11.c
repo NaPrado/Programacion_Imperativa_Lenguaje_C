@@ -1,0 +1,1 @@
+#define MASIMOENTRE3(x,y,z) (x>z?(x>y?y:x):(z>y?z:y))

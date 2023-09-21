@@ -1,0 +1,1 @@
+#define SWAP (t,x,y) (z) = (x), (x) = (y), (y) = (z)

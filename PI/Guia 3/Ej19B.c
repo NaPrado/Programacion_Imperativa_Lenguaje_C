@@ -1,0 +1,1 @@
+/*simil anterior, pero tener encuenta q el numero ingresado no es igual al recibido*/
