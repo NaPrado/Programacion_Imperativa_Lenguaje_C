@@ -3,7 +3,7 @@
 #include <unistd.h> 
 
 int main(void){
-    char HW[]="Hello Word !!!!";
+    char HW[]="Jony la tiene chiquita";
     char printable[200]={0};
     for (int i = 0; HW[i] ; i++){
         for (char j = 0; HW[i]!=j-1 ; j++){

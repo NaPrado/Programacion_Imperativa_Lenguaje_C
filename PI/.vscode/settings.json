@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.c": "c",
         "stdio.h": "c",
         "cmath": "c",
         "eJ12.C": "cpp",
@@ -11,6 +12,15 @@
         "type_traits": "c",
         "utility": "c",
         "algorithm": "c",
-        "stdlib.h": "c"
-    }
+        "stdlib.h": "c",
+        "random": "c",
+        "random.h": "c",
+        "getnum.h": "c",
+        "ej5.h": "c",
+        "ej11.h": "c",
+        "ej14.h": "c",
+        "string.h": "c",
+        "ej15.h": "c"
+    },
+    "cmake.configureOnOpen": false
 }
